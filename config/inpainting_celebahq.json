@@ -11,7 +11,7 @@
         "results": "results",
         "checkpoint": "checkpoint",
         "resume_state": "/kaggle/input/rec-180-103/rec_180/117"
-        "resume_state": null // ex: 100, loading .state  and .pth from given epoch and iteration
+//        "resume_state": null // ex: 100, loading .state  and .pth from given epoch and iteration
     },
 
     "datasets": { // train or test
